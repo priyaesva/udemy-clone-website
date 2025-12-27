@@ -1,4 +1,3 @@
-# udemy-clone-website
 # Udemy Clone Website 🌐
 
 This is a simple **Udemy clone website** built using **HTML and CSS**.  
